@@ -7,7 +7,7 @@ This is a simple Tetris game console that runs on Raspberry Pi Pico. The game is
 - Raspberry Pi Pico 
 - 1.8'' TFT LCD 128x160 ST7735
 - 4 buttons
-- Battery
+- Li-Po battery 3.7V
 - Charge module tp4056
 - Power switch
 - 3D printed case
