@@ -17,3 +17,4 @@ CircuitPython 9.0.0 or later is required to run this game. You can download the 
 
 ## Photos
 ![Tetris Game Console](photos/preview.jpg)
+![Tetris Game Console](photos/preview2.jpg)
